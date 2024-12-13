@@ -51,20 +51,17 @@ h3 {
   font-size: 1.1rem;
   font-weight: 500;
 }
-
 .hint {
   height:100px;
   width:130px;
   background-color: var(--primary-color);
 }
-
 .hint-container {
   display: flex;
   justify-content: space-between; /* Evenly space children horizontally */
   align-items: center;
   width: 75%; /* Total width: 3 rectangles (60px each) + 2 gaps (20px each) */
 }
-
 .guess-container {
   display:flex;
   flex-direction: column;
