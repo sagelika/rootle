@@ -1,0 +1,182 @@
+[
+  {
+    "Word": "Autonomy",
+    "Prefix": "Auto",
+    "Prefix Origin": "Greek: \"self\"",
+    "Root": "Nom",
+    "Root Origin": "Greek: \"law\"",
+    "Suffix": "Y",
+    "Suffix Origin": "English: \"state of\""
+  },
+  {
+    "Word": "Biology",
+    "Prefix": "Bio",
+    "Prefix Origin": "Greek: \"life\"",
+    "Root": "Logy",
+    "Root Origin": "Greek: \"study of\"",
+    "Suffix": "",
+    "Suffix Origin": ""
+  },
+  {
+    "Word": "Chronology",
+    "Prefix": "Chrono",
+    "Prefix Origin": "Greek: \"time\"",
+    "Root": "Logy",
+    "Root Origin": "Greek: \"study of\"",
+    "Suffix": "",
+    "Suffix Origin": ""
+  },
+  {
+    "Word": "Democracy",
+    "Prefix": "Demo",
+    "Prefix Origin": "Greek: \"people\"",
+    "Root": "Cracy",
+    "Root Origin": "Greek: \"rule\"",
+    "Suffix": "",
+    "Suffix Origin": ""
+  },
+  {
+    "Word": "Ecology",
+    "Prefix": "Eco",
+    "Prefix Origin": "Greek: \"house\"",
+    "Root": "Logy",
+    "Root Origin": "Greek: \"study of\"",
+    "Suffix": "",
+    "Suffix Origin": ""
+  },
+  {
+    "Word": "Geography",
+    "Prefix": "Geo",
+    "Prefix Origin": "Greek: \"earth\"",
+    "Root": "Graphy",
+    "Root Origin": "Greek: \"writing\"",
+    "Suffix": "",
+    "Suffix Origin": ""
+  },
+  {
+    "Word": "Holography",
+    "Prefix": "Holo",
+    "Prefix Origin": "Greek: \"whole\"",
+    "Root": "Graphy",
+    "Root Origin": "Greek: \"writing\"",
+    "Suffix": "",
+    "Suffix Origin": ""
+  },
+  {
+    "Word": "Ideology",
+    "Prefix": "Ideo",
+    "Prefix Origin": "Greek: \"idea\"",
+    "Root": "Logy",
+    "Root Origin": "Greek: \"study of\"",
+    "Suffix": "",
+    "Suffix Origin": ""
+  },
+  {
+    "Word": "Kinetics",
+    "Prefix": "Kine",
+    "Prefix Origin": "Greek: \"motion\"",
+    "Root": "Tics",
+    "Root Origin": "Greek: \"pertaining to\"",
+    "Suffix": "",
+    "Suffix Origin": ""
+  },
+  {
+    "Word": "Lexicon",
+    "Prefix": "Lex",
+    "Prefix Origin": "Greek: \"word\"",
+    "Root": "Icon",
+    "Root Origin": "Greek: \"image\"",
+    "Suffix": "",
+    "Suffix Origin": ""
+  },
+  {
+    "Word": "Metaphor",
+    "Prefix": "Meta",
+    "Prefix Origin": "Greek: \"beyond\"",
+    "Root": "Phor",
+    "Root Origin": "Greek: \"carry\"",
+    "Suffix": "",
+    "Suffix Origin": ""
+  },
+  {
+    "Word": "Necropolis",
+    "Prefix": "Necro",
+    "Prefix Origin": "Greek: \"dead\"",
+    "Root": "Polis",
+    "Root Origin": "Greek: \"city\"",
+    "Suffix": "",
+    "Suffix Origin": ""
+  },
+  {
+    "Word": "Ontology",
+    "Prefix": "Onto",
+    "Prefix Origin": "Greek: \"being\"",
+    "Root": "Logy",
+    "Root Origin": "Greek: \"study of\"",
+    "Suffix": "",
+    "Suffix Origin": ""
+  },
+  {
+    "Word": "Philosophy",
+    "Prefix": "Philo",
+    "Prefix Origin": "Greek: \"love\"",
+    "Root": "Soph",
+    "Root Origin": "Greek: \"wisdom\"",
+    "Suffix": "Y",
+    "Suffix Origin": "English: \"practice\""
+  },
+  {
+    "Word": "Pyromania",
+    "Prefix": "Pyro",
+    "Prefix Origin": "Greek: \"fire\"",
+    "Root": "Mania",
+    "Root Origin": "Greek: \"madness\"",
+    "Suffix": "",
+    "Suffix Origin": ""
+  },
+  {
+    "Word": "Psychology",
+    "Prefix": "Psycho",
+    "Prefix Origin": "Greek: \"soul\"",
+    "Root": "Logy",
+    "Root Origin": "Greek: \"study of\"",
+    "Suffix": "",
+    "Suffix Origin": ""
+  },
+  {
+    "Word": "Symbiosis",
+    "Prefix": "Sym",
+    "Prefix Origin": "Greek: \"together\"",
+    "Root": "Bio",
+    "Root Origin": "Greek: \"life\"",
+    "Suffix": "Sis",
+    "Suffix Origin": "Greek: \"process\""
+  },
+  {
+    "Word": "Taxonomy",
+    "Prefix": "Taxo",
+    "Prefix Origin": "Greek: \"arrangement\"",
+    "Root": "Nom",
+    "Root Origin": "Greek: \"law\"",
+    "Suffix": "Y",
+    "Suffix Origin": "English: \"state of\""
+  },
+  {
+    "Word": "Thermodynamics",
+    "Prefix": "Thermo",
+    "Prefix Origin": "Greek: \"heat\"",
+    "Root": "Dynamics",
+    "Root Origin": "Greek: \"force\"",
+    "Suffix": "",
+    "Suffix Origin": ""
+  },
+  {
+    "Word": "Theology",
+    "Prefix": "Theo",
+    "Prefix Origin": "Greek: \"god\"",
+    "Root": "Logy",
+    "Root Origin": "Greek: \"study of\"",
+    "Suffix": "",
+    "Suffix Origin": ""
+  }
+]

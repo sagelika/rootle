@@ -7,9 +7,11 @@
     />
     <meta charset="UTF-8" />
     <title>Rootle - Daily Word Origin Puzzle</title>
+    <!-- <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet"> -->
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+    <div class="wordOfTheDay" id="word-of-day-box"></div>
     <div class="hint-container"> 
       <div class="hint" id="prefix-hint-box">
         <h1 id="prefix-hint">Prefix</h1>
@@ -21,11 +23,19 @@
         <h1 id="suffix-hint">Suffix</h1>
       </div>
     </div>
+    <div class="answer-container">
+      <div class="answer" id="prefix-answer-box">
+      </div>
+      <div class="answer" id="root-answer-box">
+      </div>
+      <div class="answer" id="suffix-answer-box">
+      </div>  
+    </div>
     <div class="guess-container">
-      <input type="text" id="attempt1" maxlength="20">
-      <input type="text" id="attempt2" maxlength="20">
-      <input type="text" id="attempt3" maxlength="20">
-      <input type="text" id="attempt4" maxlength="20">
+      <input type="text" id="attempt1" maxlength="20" >
+      <input type="text" id="attempt2" maxlength="20" disabled>
+      <input type="text" id="attempt3" maxlength="20" disabled>
+      <input type="text" id="attempt4" maxlength="20" disabled>
     </div>
     <script type="application/javascript" src="script.js"></script>
   </body>
