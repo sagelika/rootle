@@ -66,7 +66,7 @@ APIs: Custom endpoints for daily word retrieval and leaderboard management
 
 **Clone the Repository:**
 
-git clone https://github.com/yourusername/rootle.git
+git clone https://github.com/sagelika/rootle.git
 cd rootle
 
 **Deploy on Devvit:**
