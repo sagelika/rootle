@@ -1,4 +1,4 @@
-### Rootle: A Daily Word Puzzle for Etymology Enthusiasts
+# Rootle: A Daily Word Puzzle for Etymology Enthusiasts
 
 ## Overview
 
@@ -88,7 +88,7 @@ Open a pull request.
 
 ## Roadmap
 
-# Future Features
+### Future Features
 
 Enhanced user profiles with detailed etymology stats.
 
@@ -96,7 +96,7 @@ Gamified achievements for milestones.
 
 Community-driven word submissions.
 
-# Credits
+### Credits
 
 Project Lead & Developer: Sage Lika
 
@@ -104,11 +104,7 @@ Platform Support: Reddit’s Devvit Team
 
 Etymology Data Sources: Public linguistic databases and dictionaries
 
-# License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-# Contact
+### Contact
 
 For questions or suggestions, feel free to reach out via:
 
